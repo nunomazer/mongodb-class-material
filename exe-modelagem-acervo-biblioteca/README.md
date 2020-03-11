@@ -21,17 +21,17 @@ Crie para ambos os modelos as seguintes consultas:
 
 
 Campos:
-registro_sistema
-titulo
-sub_titulo
-assunto
-autor
-tipo_material
-quantidade
-ano
-edicao
-editora
-isbn
-issn
+* registro_sistema
+* titulo
+* sub_titulo
+* assunto
+* autor
+* tipo_material
+* quantidade
+* ano
+* edicao
+* editora
+* isbn
+* issn
 
 
