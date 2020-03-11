@@ -34,4 +34,5 @@ Campos:
 * isbn
 * issn
 
+Ref: https://docs.mongodb.com/manual/data-modeling/
 
